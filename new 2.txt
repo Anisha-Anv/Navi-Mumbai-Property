@@ -1,0 +1,40 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #f5f5f5;
+}
+
+header {
+    background-color: green;
+    color: white;
+    padding: 15px;
+    font-size: 24px;
+}
+
+.property {
+    margin: 20px;
+    padding: 15px;
+    background-color: white;
+    box-shadow: 0px 0px 10px gray;
+}
+
+.contact-form {
+    margin: 20px;
+    padding: 15px;
+    background-color: white;
+    box-shadow: 0px 0px 10px gray;
+}
+
+input, button {
+    display: block;
+    width: 80%;
+    margin: 10px auto;
+    padding: 10px;
+}
+
+button {
+    background-color: green;
+    color: white;
+    border: none;
+    cursor: pointer;
+}

@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Real Estate Property Listing</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Find Your Dream Home</h1>
+    </header>
+
+    <section class="property">
+        <h2>Homes Starting At:</h2>
+        <p>1 BHK – ₹59.99 Lakh</p>
+        <p>2 BHK – ₹79.99 Lakh</p>
+        <p>3 BHK – ₹1.14 Crore</p>
+    </section>
+
+    <section class="contact-form">
+        <h2>Contact Us</h2>
+        <form>
+            <input type="text" placeholder="Name*" required>
+            <input type="email" placeholder="Email*" required>
+            <input type="text" placeholder="Mobile Number*" required>
+            <button type="submit">Submit</button>
+        </form>
+    </section>
+
+    <script src="script.js"></script>
+</body>
+</html>
